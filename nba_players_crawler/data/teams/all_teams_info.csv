@@ -1,0 +1,86 @@
+Franchise,team_url,F,Lg,From,To,Yrs,G,W,L,W/L%,Plyfs,Div,Conf,Champ
+Atlanta Hawks,https://basketball-reference.com/teams/ATL/,Atlanta Hawks,NBA,1949-50,2020-21,72,5650,2779,2871,.492,46,11,0,1
+Atlanta Hawks,,Atlanta Hawks,NBA,1968-69,2020-21,53,4232,2081,2151,.492,33,5,0,0
+St. Louis Hawks,,Atlanta Hawks,NBA,1955-56,1967-68,13,1005,553,452,.550,12,6,0,1
+Milwaukee Hawks,,Atlanta Hawks,NBA,1951-52,1954-55,4,281,91,190,.324,0,0,0,0
+Tri-Cities Blackhawks,,Atlanta Hawks,NBA,1949-50,1950-51,2,132,54,78,.409,1,0,0,0
+Boston Celtics,https://basketball-reference.com/teams/BOS/,Boston Celtics,NBA/BAA,1946-47,2020-21,75,5827,3441,2386,.591,57,31,9,17
+Brooklyn Nets,https://basketball-reference.com/teams/NJN/,Brooklyn Nets,NBA/ABA,1967-68,2020-21,54,4327,1880,2447,.434,28,5,2,2
+Brooklyn Nets,,Brooklyn Nets,NBA,2012-13,2020-21,9,679,298,381,.439,5,0,0,0
+New Jersey Nets,,Brooklyn Nets,NBA,1977-78,2011-12,35,2822,1186,1636,.420,16,4,2,0
+New York Nets,,Brooklyn Nets,NBA,1976-77,1976-77,1,82,22,60,.268,0,0,0,0
+New York Nets,,Brooklyn Nets,ABA,1968-69,1975-76,8,666,338,328,.508,7,1,0,2
+New Jersey Americans,,Brooklyn Nets,ABA,1967-68,1967-68,1,78,36,42,.462,0,0,0,0
+Charlotte Hornets,https://basketball-reference.com/teams/CHA/,Charlotte Hornets,NBA,1988-89,2020-21,31,2425,1064,1361,.439,10,0,0,0
+Charlotte Hornets,,Charlotte Hornets,NBA,2014-15,2020-21,7,505,229,276,.453,1,0,0,0
+Charlotte Bobcats,,Charlotte Hornets,NBA,2004-05,2013-14,10,804,293,511,.364,2,0,0,0
+Charlotte Hornets,,Charlotte Hornets,NBA,1988-89,2001-02,14,1116,542,574,.486,7,0,0,0
+Chicago Bulls,https://basketball-reference.com/teams/CHI/,Chicago Bulls,NBA,1966-67,2020-21,55,4392,2241,2151,.510,35,9,6,6
+Cleveland Cavaliers,https://basketball-reference.com/teams/CLE/,Cleveland Cavaliers,NBA,1970-71,2020-21,51,4067,1878,2189,.462,22,7,5,1
+Dallas Mavericks,https://basketball-reference.com/teams/DAL/,Dallas Mavericks,NBA,1980-81,2020-21,41,3255,1630,1625,.501,22,3,2,1
+Denver Nuggets,https://basketball-reference.com/teams/DEN/,Denver Nuggets,NBA/ABA,1967-68,2020-21,54,4326,2179,2147,.504,35,12,0,0
+Denver Nuggets,,Denver Nuggets,NBA,1976-77,2020-21,45,3582,1766,1816,.493,26,9,0,0
+Denver Nuggets,,Denver Nuggets,ABA,1974-75,1975-76,2,168,125,43,.744,2,2,0,0
+Denver Rockets,,Denver Nuggets,ABA,1967-68,1973-74,7,576,288,288,.500,7,1,0,0
+Detroit Pistons,https://basketball-reference.com/teams/DET/,Detroit Pistons,NBA/BAA,1948-49,2020-21,73,5711,2762,2949,.484,42,11,5,3
+Detroit Pistons,,Detroit Pistons,NBA,1957-58,2020-21,64,5092,2449,2643,.481,34,9,5,3
+Fort Wayne Pistons,,Detroit Pistons,NBA/BAA,1948-49,1956-57,9,619,313,306,.506,8,2,0,0
+Golden State Warriors,https://basketball-reference.com/teams/GSW/,Golden State Warriors,NBA/BAA,1946-47,2020-21,75,5817,2804,3013,.482,35,12,6,6
+Golden State Warriors,,Golden State Warriors,NBA,1971-72,2020-21,50,3985,1916,2069,.481,18,7,6,4
+San Francisco Warriors,,Golden State Warriors,NBA,1962-63,1970-71,9,729,330,399,.453,5,2,0,0
+Philadelphia Warriors,,Golden State Warriors,NBA/BAA,1946-47,1961-62,16,1103,558,545,.506,12,3,0,2
+Houston Rockets,https://basketball-reference.com/teams/HOU/,Houston Rockets,NBA,1967-68,2020-21,54,4317,2280,2037,.528,34,8,4,2
+Houston Rockets,,Houston Rockets,NBA,1971-72,2020-21,50,3989,2161,1828,.542,33,8,4,2
+San Diego Rockets,,Houston Rockets,NBA,1967-68,1970-71,4,328,119,209,.363,1,0,0,0
+Indiana Pacers,https://basketball-reference.com/teams/IND/,Indiana Pacers,NBA/ABA,1967-68,2020-21,54,4323,2231,2092,.516,36,9,1,3
+Indiana Pacers,,Indiana Pacers,NBA,1976-77,2020-21,45,3579,1804,1775,.504,27,6,1,0
+Indiana Pacers,,Indiana Pacers,ABA,1967-68,1975-76,9,744,427,317,.574,9,3,0,3
+Los Angeles Clippers,https://basketball-reference.com/teams/LAC/,Los Angeles Clippers,NBA,1970-71,2020-21,51,4075,1682,2393,.413,15,2,0,0
+Los Angeles Clippers,,Los Angeles Clippers,NBA,1984-85,2020-21,37,2927,1237,1690,.423,12,2,0,0
+San Diego Clippers,,Los Angeles Clippers,NBA,1978-79,1983-84,6,492,186,306,.378,0,0,0,0
+Buffalo Braves,,Los Angeles Clippers,NBA,1970-71,1977-78,8,656,259,397,.395,3,0,0,0
+Los Angeles Lakers,https://basketball-reference.com/teams/LAL/,Los Angeles Lakers,NBA/BAA,1948-49,2020-21,73,5718,3407,2311,.596,61,33,19,17
+Los Angeles Lakers,,Los Angeles Lakers,NBA,1960-61,2020-21,61,4879,2950,1929,.605,50,29,19,12
+Minneapolis Lakers,,Los Angeles Lakers,NBA/BAA,1948-49,1959-60,12,839,457,382,.545,11,4,0,5
+Memphis Grizzlies,https://basketball-reference.com/teams/MEM/,Memphis Grizzlies,NBA,1995-96,2020-21,26,2020,839,1181,.415,10,0,0,0
+Memphis Grizzlies,,Memphis Grizzlies,NBA,2001-02,2020-21,20,1560,738,822,.473,10,0,0,0
+Vancouver Grizzlies,,Memphis Grizzlies,NBA,1995-96,2000-01,6,460,101,359,.220,0,0,0,0
+Miami Heat,https://basketball-reference.com/teams/MIA/,Miami Heat,NBA,1988-89,2020-21,33,2598,1352,1246,.520,21,14,6,3
+Milwaukee Bucks,https://basketball-reference.com/teams/MIL/,Milwaukee Bucks,NBA,1968-69,2020-21,53,4239,2204,2035,.520,32,15,2,1
+Minnesota Timberwolves,https://basketball-reference.com/teams/MIN/,Minnesota Timberwolves,NBA,1989-90,2020-21,32,2508,987,1521,.394,9,1,0,0
+New Orleans Pelicans,https://basketball-reference.com/teams/NOH/,New Orleans Pelicans,NBA,2002-03,2020-21,19,1480,686,794,.464,7,1,0,0
+New Orleans Pelicans,,New Orleans Pelicans,NBA,2013-14,2020-21,8,594,267,327,.449,2,0,0,0
+NO/Ok. City Hornets,,New Orleans Pelicans,NBA,2005-06,2006-07,2,164,77,87,.470,0,0,0,0
+New Orleans Hornets,,New Orleans Pelicans,NBA,2002-03,2012-13,9,722,342,380,.474,5,1,0,0
+New York Knicks,https://basketball-reference.com/teams/NYK/,New York Knicks,NBA/BAA,1946-47,2020-21,75,5819,2814,3005,.484,42,8,4,2
+Oklahoma City Thunder,https://basketball-reference.com/teams/OKC/,Oklahoma City Thunder,NBA,1967-68,2020-21,54,4319,2339,1980,.542,32,11,4,1
+Oklahoma City Thunder,,Oklahoma City Thunder,NBA,2008-09,2020-21,13,989,594,395,.601,10,5,1,0
+Seattle SuperSonics,,Oklahoma City Thunder,NBA,1967-68,2007-08,41,3330,1745,1585,.524,22,6,3,1
+Orlando Magic,https://basketball-reference.com/teams/ORL/,Orlando Magic,NBA,1989-90,2020-21,32,2517,1204,1313,.478,16,6,2,0
+Philadelphia 76ers,https://basketball-reference.com/teams/PHI/,Philadelphia 76ers,NBA,1949-50,2020-21,72,5655,2921,2734,.517,50,11,5,3
+Philadelphia 76ers,,Philadelphia 76ers,NBA,1963-64,2020-21,58,4642,2345,2297,.505,36,8,5,2
+Syracuse Nationals,,Philadelphia 76ers,NBA,1949-50,1962-63,14,1013,576,437,.569,14,3,0,1
+Phoenix Suns,https://basketball-reference.com/teams/PHO/,Phoenix Suns,NBA,1968-69,2020-21,53,4237,2240,1997,.529,29,6,2,0
+Portland Trail Blazers,https://basketball-reference.com/teams/POR/,Portland Trail Blazers,NBA,1970-71,2020-21,51,4075,2187,1888,.537,36,6,3,1
+Sacramento Kings,https://basketball-reference.com/teams/SAC/,Sacramento Kings,NBA/BAA,1948-49,2020-21,73,5718,2605,3113,.456,29,5,0,1
+Sacramento Kings,,Sacramento Kings,NBA,1985-86,2020-21,36,2843,1199,1644,.422,10,2,0,0
+Kansas City Kings,,Sacramento Kings,NBA,1975-76,1984-85,10,820,381,439,.465,4,1,0,0
+Kansas City-Omaha Kings,,Sacramento Kings,NBA,1972-73,1974-75,3,246,113,133,.459,1,0,0,0
+Cincinnati Royals,,Sacramento Kings,NBA,1957-58,1971-72,15,1189,555,634,.467,7,0,0,0
+Rochester Royals,,Sacramento Kings,NBA/BAA,1948-49,1956-57,9,620,357,263,.576,7,2,0,1
+San Antonio Spurs,https://basketball-reference.com/teams/SAS/,San Antonio Spurs,NBA/ABA,1967-68,2020-21,54,4320,2588,1732,.599,47,22,6,5
+San Antonio Spurs,,San Antonio Spurs,NBA,1976-77,2020-21,45,3576,2210,1366,.618,39,22,6,5
+San Antonio Spurs,,San Antonio Spurs,ABA,1973-74,1975-76,3,252,146,106,.579,3,0,0,0
+Texas Chaparrals,,San Antonio Spurs,ABA,1970-71,1970-71,1,84,30,54,.357,1,0,0,0
+Dallas Chaparrals,,San Antonio Spurs,ABA,1967-68,1972-73,5,408,202,206,.495,4,0,0,0
+Toronto Raptors,https://basketball-reference.com/teams/TOR/,Toronto Raptors,NBA,1995-96,2020-21,26,2024,971,1053,.480,12,7,1,1
+Utah Jazz,https://basketball-reference.com/teams/UTA/,Utah Jazz,NBA,1974-75,2020-21,47,3745,2033,1712,.543,29,9,2,0
+Utah Jazz,,Utah Jazz,NBA,1979-80,2020-21,42,3335,1872,1463,.561,29,9,2,0
+New Orleans Jazz,,Utah Jazz,NBA,1974-75,1978-79,5,410,161,249,.393,0,0,0,0
+Washington Wizards,https://basketball-reference.com/teams/WAS/,Washington Wizards,NBA,1961-62,2020-21,60,4798,2164,2634,.451,29,8,4,1
+Washington Wizards,,Washington Wizards,NBA,1997-98,2020-21,24,1857,786,1071,.423,8,1,0,0
+Washington Bullets,,Washington Wizards,NBA,1974-75,1996-97,23,1886,887,999,.470,13,2,3,1
+Capital Bullets,,Washington Wizards,NBA,1973-74,1973-74,1,82,47,35,.573,1,1,0,0
+Baltimore Bullets,,Washington Wizards,NBA,1963-64,1972-73,10,813,401,412,.493,7,4,1,0
+Chicago Zephyrs,,Washington Wizards,NBA,1962-63,1962-63,1,80,25,55,.313,0,0,0,0
+Chicago Packers,,Washington Wizards,NBA,1961-62,1961-62,1,80,18,62,.225,0,0,0,0
